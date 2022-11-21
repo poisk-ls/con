@@ -51,7 +51,7 @@
     
   <tr>
   <td>
-    ꧁<strong>Medium</strong>: <a href="https://dalpatrathore.medium.com/"> <img align="center" src="https://img.shields.io/badge/dalpatrathore-12100E?style=flat&logo=medium&logoColor=white"></a> 
+    ꧁<strong>Medium</strong>: <a href="https://medium.com/@bsit.3s.buhayan.jadenelson"> <img align="center" src="https://img.shields.io/badge/ᴊ ᴀ ᴅ ᴇ-12100E?style=flat&logo=medium&logoColor=white"></a> 
   </td>
    </tr>
      
