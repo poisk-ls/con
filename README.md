@@ -41,12 +41,12 @@
 
    <tr>
  <td>
-   ├─◈ <strong>Dev</strong>: <a href="https://dev.to/dalpatrathore"> <img align="center" src="https://img.shields.io/badge/dalpatrathore-0A0A0A?style=flat&logo=dev.to&logoColor=white"></a>    
+   ├─◈ <strong>Discord</strong>: <a href="https://discord.gg/jade-posk-ls#1435"> <img align="center" src="https://img.shields.io/badge/jadepoisk-0A0A0A?style=flat&logo=discord&logoColor=white"></a>    
   </td>
    </tr> 
 <tr>
   <td>
-      ├─◈ <strong>Hashnode</strong>: <a href="https://hashnode.com/@dalpatrathore"> <img align="center" src="https://img.shields.io/badge/@dalpatrathore-2962FF?style=flat&logo=hashnode&logoColor=white"></a> 
+      ├─◈ <strong>Whatsapp</strong>: <a href="https://wa.me/639052877252?text=Hi%20Im%20Jade"> <img align="center" src="https://img.shields.io/badge/Jade-2962FF?style=flat&logo=whatsapp&logoColor=white"></a> 
   </td>
    </tr>
     
@@ -58,10 +58,26 @@
      
   <tr>
   <td>
-      ├─◈ <strong>Portfolio</strong>: <a href="https://dalpatrathoredev.web.app/"> <img align="center" src="https://img.shields.io/badge/Dalpat Rathore-1d3461?style=flat&logo=About.me&logoColor=orange"></a> 
+      ├─◈ <strong>Telegram</strong>: <a href="https://t.me/poiskLs/"> <img align="center" src="https://img.shields.io/badge/poiskLs-1d3461?style=flat&logo=telegram&logoColor=orange"></a> 
   </td>
    </tr>
+
+  <tr>
+  <td>
+      ├─◈ <strong>Buymecoffee</strong>: <a href="https://www.buymeacoffee.com/bsit3sbuhaY"> <img align="center" src="https://img.shields.io/badge/jade-1d3461?style=flat&logo=buymeacoffee&logoColor=orange"></a> 
+  </td>
+   </tr>
+
+  <tr>
+  <td>
+      ├─◈ <strong>Group Whatsapp</strong>: <a href="https://chat.whatsapp.com/DrdHqZC1OW64oJa1mJ4xiG"> <img align="center" src="https://img.shields.io/badge/JOIN NOW-1d3461?style=flat&logo=whatsapp&logoColor=orange"></a> 
+  </td>
+   </tr>
+
        
+
+
+
 </table>
     </td>
      <td>
